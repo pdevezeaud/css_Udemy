@@ -1,0 +1,19 @@
+Langage de balisage
+contenu & structure d'une page web
+semantique
+Balises & Attributs
+
+est interpreté coté navigateur.
+
+le but est de séparé les deux (html / css)
+
+
+
+fEUILLE DE STYLE
+
+CSS 3
+Apparence des elements d'une page web
+Adaptation au contexte
+
+selecteur et propriétés
+interpreté par le navigateur
