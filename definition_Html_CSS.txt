@@ -17,3 +17,36 @@ Adaptation au contexte
 
 selecteur et propriétés
 interpreté par le navigateur
+
+//Unite de mesure
+
+px : valeur absolue (ne bouge pas)
+% : valeur relative (change en fonction du parent
+    valeur decimale accepté
+
+EM : relative, cheange suivant la taille de police du parent
+communément utilisée par les tailles de police
+valeur decimale acceptée.
+
+REM : relative, change suivant la taille de police 'racine' 
+communément utilisée pour les tailles de police
+valeur décimale acceptée.
+
+****************************************
+Les balise meta
+    Elles permettent à Google de savoir quelle description vous voulez qu'il affiche pour cette page :
+
+    <meta name="description" content="Votre description">
+
+    Elles permettent de préciser l'auteur du contenu de la page
+
+    <meta name="author" content="...">
+
+Si vous souhaitez en savoir plus je vous conseille de checker rapidement w3schools
+
+https://www.w3schools.com/tags/tag_meta.asp
+
+Pour conclure, le SEO (référencement de votre site dans les moteurs de recherche) peut être affecté par les balises meta. Si vous souhaitez en savoir plus à ce sujet, je vous conseille cet article
+
+https://www.webrankinfo.com/dossiers/techniques/guide-balises-meta
+

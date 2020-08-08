@@ -1,0 +1,30 @@
+body {
+    font-family: 'Open Sans', 'Arial', sans-serif;
+    margin: 0;
+    
+}
+
+header {
+    background: url('../Premier_Projet_Header/img/image.jpg');
+    text-align: center;
+    color: white;
+    padding: 30px 30px 150px 30px;
+    background-position: center center;
+}
+
+header h1{
+    font-size: 6em;
+    margin-top: 150px;
+    border-bottom: 2px solid white;
+    padding-bottom: 15px;
+}
+
+header h2{
+    font-size: 2.5em ;
+    margin-top: -25px;
+    font-style: italic;
+}
+
+header h1,h2 {
+    text-shadow: 0 0 5px black;
+}
